@@ -7,7 +7,7 @@ Benvenuti al Workshop per Beginners di [Data Masters](https://datamasters.it)! I
 **Notebooks**: 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Datamasters-it/Gotta-Check-Them-All/main?labpath=analisi_dati_roba_da_donne.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/github/Datamasters-it/Gotta-Check-Them-All/blob/main/analisi_dati_roba_da_donne.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ](https://colab.research.google.com/drive/1_bXDGJ_EVK2xfCopshYVO6IQx0dKbus0?usp=sharing)
 
 **Notebooks Completi**: 
 
